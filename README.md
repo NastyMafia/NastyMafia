@@ -47,18 +47,7 @@
 
 ---
 
-### `$ gh stats --user BleedingEdg3`
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BleedingEdg3&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BleedingEdg3&layout=compact&theme=github_dark&hide_border=true)
-
----
-
 ### `$ echo "Let's connect!"`
-```
-  LinkedIn  →  linkedin.com/in/nitish-rohilla
-  Portfolio →  BleedingEdg3.github.io/MyPortfolio
-  Instagram →  nitish._.rohilla
-```
-
-![Visitor count](https://komarev.com/ghpvc/?username=BleedingEdg3&style=flat-square&color=green)
+  [LinkedIn](linkedin.com/in/nitish-rohilla)
+  [Portfolio](https://bleedingedg3.github.io/MyPortfolio/)
+  ![Visitor count](https://komarev.com/ghpvc/?username=BleedingEdg3&style=flat-square&color=green)
