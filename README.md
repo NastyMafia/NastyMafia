@@ -4,11 +4,15 @@
 ██████╔╝██║     █████╗  █████╗  ██║  ██║██║██╔██╗ ██║██║  ███╗█████╗  ██║  ██║██║  ███╗ █████╔╝
 ██╔══██╗██║     ██╔══╝  ██╔══╝  ██║  ██║██║██║╚██╗██║██║   ██║██╔══╝  ██║  ██║██║   ██║ ╚═══██╗
 ██████╔╝███████╗███████╗███████╗██████╔╝██║██║ ╚████║╚██████╔╝███████╗██████╔╝╚██████╔╝██████╔╝
-╚═════╝ ╚══════╝╚══════╝╚══════╝╚═════╝ ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚═════╝  ╚═════╝ ╚═════╝ 
+╚═════╝ ╚══════╝╚══════╝╚══════╝╚═════╝ ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚═════╝  ╚═════╝ ╚═════╝
 ```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=39D353&width=500&lines=Data+Analyst+/+Data+Scientist;Building+GenAI+pipelines+%26+RAG+agents;Open+to+AI%2FML+roles)](https://git.io/typing-svg)
 
 ---
 
+```
+$ cat about.json
+```
 ```json
 {
   "name": "Nitish Rohilla",
@@ -18,6 +22,11 @@
   "currently_building": "GenAI pipelines & RAG agents"
 }
 ```
+
+---
+
+### `$ gh stats --user BleedingEdg3`
+![Streak](https://streak-stats.demolab.com?user=BleedingEdg3&theme=github-dark-blue&hide_border=true)
 
 ---
 
@@ -43,24 +52,23 @@
 
 ### `$ cat highlights.log`
 
-```
-# QLoRA Fine-tuning — Qwen 2.5 0.5B on DialogSum
-  BERTScore F1: 0.8381 → 0.8805  ▲ +5.0%
-
-# GCP Vertex AI RAG Agent
-  Stack: Vertex AI · LangChain · Vector Search
-
-# n8n Multi-Agent Password Reset Workflow
-  5 deterministic tool nodes · Supabase · OTP validation
-```
+| # | Project | Details |
+|---|---------|---------|
+| `01` | **QLoRA Fine-tuning** — Qwen 2.5 0.5B on DialogSum | BERTScore F1: `0.8381` → `0.8805` &nbsp;▲ `+5%` |
+| `02` | **GCP Vertex AI RAG Agent** | Stack: `Vertex AI` · `LangChain` · `Vector Search` |
+| `03` | **n8n Multi-Agent Password Reset Workflow** | `5` deterministic tool nodes · `Supabase` · `OTP validation` |
 
 ---
 
 ### `$ echo "Let's connect!"`
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](linkedin.com/in/nitish-rohilla)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139)](https://bleedingedg3.github.io/MyPortfolio/)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=plastic&logo=discord&logoColor=white)](https://discord.com/users/761897407368790016)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:nitishrohilla77624@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white)](https://www.instagram.com/nitish._.rohilla/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white)](https://wa.me/7206368408)
-![🔢 Visitor count](https://komarev.com/ghpvc/?username=BleedingEdg3&style=plastic&color=green)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](linkedin.com/in/nitish-rohilla)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)](https://bleedingedg3.github.io/MyPortfolio/)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/761897407368790016)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nitishrohilla77624@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/nitish._.rohilla/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/7206368408)
+![Visitor count](https://komarev.com/ghpvc/?username=BleedingEdg3&style=flat-square&color=green)
+---
+```
+[session closed] — thanks for visiting · BleedingEdg3
+```
