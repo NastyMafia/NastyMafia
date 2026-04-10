@@ -1,11 +1,9 @@
+```                                                      
+█████▄ ▄▄    ▄▄▄▄▄ ▄▄▄▄▄ ▄▄▄▄  ▄▄ ▄▄  ▄▄  ▄▄▄▄ ██████ ▄▄▄▄   ▄▄▄▄ ▄▄▄▄▄ 
+██▄▄██ ██    ██▄▄  ██▄▄  ██▀██ ██ ███▄██ ██ ▄▄ ██▄▄   ██▀██ ██ ▄▄ ██▄▄  
+██▄▄█▀ ██▄▄▄ ██▄▄▄ ██▄▄▄ ████▀ ██ ██ ▀██ ▀███▀ ██▄▄▄▄ ████▀ ▀███▀ ██▄▄▄
 ```
-██████╗ ██╗     ███████╗███████╗██████╗ ██╗███╗   ██╗ ██████╗ ███████╗██████╗  ██████╗ ██████╗ 
-██╔══██╗██║     ██╔════╝██╔════╝██╔══██╗██║████╗  ██║██╔════╝ ██╔════╝██╔══██╗██╔════╝ ╚════██╗
-██████╔╝██║     █████╗  █████╗  ██║  ██║██║██╔██╗ ██║██║  ███╗█████╗  ██║  ██║██║  ███╗ █████╔╝
-██╔══██╗██║     ██╔══╝  ██╔══╝  ██║  ██║██║██║╚██╗██║██║   ██║██╔══╝  ██║  ██║██║   ██║ ╚═══██╗
-██████╔╝███████╗███████╗███████╗██████╔╝██║██║ ╚████║╚██████╔╝███████╗██████╔╝╚██████╔╝██████╔╝
-╚═════╝ ╚══════╝╚══════╝╚══════╝╚═════╝ ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚═════╝  ╚═════╝ ╚═════╝
-```
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=39D353&width=500&lines=Data+Analyst+/+Data+Scientist;Building+GenAI+pipelines+%26+RAG+agents;Open+to+AI%2FML+roles)](https://git.io/typing-svg)
 
 ---
@@ -68,7 +66,9 @@ $ cat about.json
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/nitish._.rohilla/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/7206368408)
 ![Visitor count](https://komarev.com/ghpvc/?username=BleedingEdg3&style=flat-square&color=green)
+
 ---
+
 ```
 [session closed] — thanks for visiting · BleedingEdg3
 ```
