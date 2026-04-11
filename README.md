@@ -25,8 +25,7 @@
 [Nitishrohilla77624@gmail.com](mailto:nitishrohilla77624@gmail.com) | +917206368408 | Gurugram, Haryana IN <br>
 [Portfolio](https://bleedingedg3.github.io/MyPortfolio/) | [GitHub](https://github.com/BleedingEdg3)
 # EXPERIENCE
->###  **SkillUpTech | Associate Data Scientist**  *March 2025 - March 2026* 
->Spearhead end-to-end design and deployment of production-grade AI solutions, driving measurable business impact across NLP, LLM fine-tuning, and intelligent automation domains. Core responsibilities span Python, spaCy, and LLM pipelines, cloud AI platforms, and multi-agent workflow engineering.
+>- Spearhead end-to-end design and deployment of production-grade AI solutions, driving measurable business impact across NLP, LLM fine-tuning, and intelligent automation domains. Core responsibilities span Python, spaCy, and LLM pipelines, cloud AI platforms, and multi-agent workflow engineering.
 >- **n8n AI Agent Automation:** Architected and deployed advanced multi-agent workflows leveraging deep expertise in JSON schema design, agent chaining, and tool/memory integration within n8n. Engineered a fully autonomous Password Reset Agent featuring secure OTP generation, automated email dispatch, and token-based authentication flow – High accuracy and demonstrating production-level security practices.
 >- **GCP Vertex AI — Gemini Fine-Tuning & RAG Agent:** Fine-tuned a Gemini model on Google Cloud Platform Vertex AI for domain-specific task performance. Independently designed and deployed a Retrieval-Augmented Generation (RAG) agent integrating embedding models and vector search to deliver accurate, context-grounded responses — significantly reducing hallucination rates versus baseline.
 >- **AWS Cloud AI (SageMaker, Lambda):** Leveraged AWS SageMaker for scalable spaCy model training and deployment pipelines, and AWS Lambda for serverless inference endpoints — enabling cost-efficient, auto-scaling AI deployments without infrastructure overhead.
