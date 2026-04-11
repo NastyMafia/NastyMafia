@@ -1,7 +1,9 @@
-```                                                      
-█████▄ ▄▄    ▄▄▄▄▄ ▄▄▄▄▄ ▄▄▄▄  ▄▄ ▄▄  ▄▄  ▄▄▄▄ ██████ ▄▄▄▄   ▄▄▄▄ ▄▄▄▄▄ 
-██▄▄██ ██    ██▄▄  ██▄▄  ██▀██ ██ ███▄██ ██ ▄▄ ██▄▄   ██▀██ ██ ▄▄ ██▄▄  
-██▄▄█▀ ██▄▄▄ ██▄▄▄ ██▄▄▄ ████▀ ██ ██ ▀██ ▀███▀ ██▄▄▄▄ ████▀ ▀███▀ ██▄▄▄
+ ```                                                  
+██████  ██      ███████ ███████ ██████  ██ ███    ██  ██████  ███████ ██████   ██████  ██████  
+██   ██ ██      ██      ██      ██   ██ ██ ████   ██ ██       ██      ██   ██ ██            ██ 
+██████  ██      █████   █████   ██   ██ ██ ██ ██  ██ ██   ███ █████   ██   ██ ██   ███  █████  
+██   ██ ██      ██      ██      ██   ██ ██ ██  ██ ██ ██    ██ ██      ██   ██ ██    ██      ██ 
+██████  ███████ ███████ ███████ ██████  ██ ██   ████  ██████  ███████ ██████   ██████  ██████  
 ```
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=39D353&width=500&lines=Data+Analyst+/+Data+Scientist;Building+GenAI+pipelines+%26+RAG+agents;Open+to+AI%2FML+roles)](https://git.io/typing-svg)
 ---
@@ -17,6 +19,7 @@
 }
 ```
 ---
+
 ### `$ cat resume.md` 
 <details>
   <summary>📄👆 Expand Resume Summary ⬇️</summary>
@@ -71,6 +74,7 @@
         <img height="180em" src="https://streak-stats.demolab.com?user=BleedingEdg3&theme=github-dark-blue&hide_border=true" />
     </a>
 </p>
+
 ---
 
 ### `$ ls ./skills/`
