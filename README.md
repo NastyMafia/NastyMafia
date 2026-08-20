@@ -18,50 +18,6 @@
   "currently_building": "GenAI pipelines & RAG agents"
 }
 ```
----
-
-### `$ cat resume.md` 
-<details>
-  <summary>📄👆 Expand Resume Summary ⬇️</summary>
-  
-# **NITISH** <br> Data Scientist
-[Nitishrohilla77624@gmail.com](mailto:nitishrohilla77624@gmail.com) | +917206368408 | Gurugram, Haryana IN <br>
-[Portfolio](https://bleedingedg3.github.io/MyPortfolio/) | [GitHub](https://github.com/BleedingEdg3)
-# EXPERIENCE
->- Spearhead end-to-end design and deployment of production-grade AI solutions, driving measurable business impact across NLP, LLM fine-tuning, and intelligent automation domains. Core responsibilities span Python, spaCy, and LLM pipelines, cloud AI platforms, and multi-agent workflow engineering.
->- **n8n AI Agent Automation:** Architected and deployed advanced multi-agent workflows leveraging deep expertise in JSON schema design, agent chaining, and tool/memory integration within n8n. Engineered a fully autonomous Password Reset Agent featuring secure OTP generation, automated email dispatch, and token-based authentication flow – High accuracy and demonstrating production-level security practices.
->- **GCP Vertex AI — Gemini Fine-Tuning & RAG Agent:** Fine-tuned a Gemini model on Google Cloud Platform Vertex AI for domain-specific task performance. Independently designed and deployed a Retrieval-Augmented Generation (RAG) agent integrating embedding models and vector search to deliver accurate, context-grounded responses — significantly reducing hallucination rates versus baseline.
->- **AWS Cloud AI (SageMaker, Lambda):** Leveraged AWS SageMaker for scalable spaCy model training and deployment pipelines, and AWS Lambda for serverless inference endpoints — enabling cost-efficient, auto-scaling AI deployments without infrastructure overhead.
-
-# SKILLS
->|Field|Skills|
->|:----|-----:|
->|Programming Languages	|Python, SQL, JavaScript, C++, HTML, CSS |
->|Libraries/Frameworks	|n8n, spaCy, NLP, LoRA, RAG, LangChain|
->|Tools / Platforms	|Matplotlib, Pandas, NLTK, AWS, GCP, PyTorch|
->|Databases	|SQL, csv, Buckets, Excel, DataFrames|
-
-# PROJECTS
->### **INSURANCE CLAIM PREDICTION** | [Link](https://github.com/BleedingEdg3/Insurance-Claim-Prediction) <br> *Python, Pandas, Matplotlib, Regression, Decision Trees*
->Developed a machine learning web application to predict whether an insurance claim would be approved. Trained multiple regression models including Decision Trees and Random Forest. Used Matplotlib for data visualization and deployed the best-performing model. Achieved a model accuracy of 89%, leading to a 20% improvement over baseline predictions.
-
->### **QWEN 2.5 LLM FINE-TUNING WITH QLORA** | [Link](https://github.com/BleedingEdg3/fine_tuning_qwen_0.5B) <br> *PyTorch, HuggingFace, QLoRA, PEFT, TRL*
-> Fine-tuned a Qwen 2.5 0.5 B instruction model on local hardware using QLoRA (4-bit quantization + LoRA adapters via PEFT/TRL) on the DialogSum conversational summarisation dataset. Achieved a +5% gain in BERTScore F1 (0.8381 → 0.8805) after fine-tuning, with corresponding precision and recall improvements — demonstrating resource-efficient LLM specialization with validation using automated BERTScore evaluation.
-
->### **REAL-TIME CHAT APPLICATION** | [Link](https://github.com/BleedingEdg3/Real-Time-Chat-App) <br> *Flask, Web Sockets, Node.js*
-> Created a live messaging platform to enable real-time user communication. Implemented bidirectional communication using Web Sockets with Socket.IO. Built a dynamic frontend with HTML/css and Js and backend using Flask. Supported message latency under 200ms.
-
->### **SENTIMENT ANALYSIS** | [Link](https://github.com/BleedingEdg3/Sentiment_Analysis) <br> *Python, NLTK, Matplotlib, WordCloud*
-> Developed a model to detect public sentiment in social media posts, focusing on identifying depressive or negative content. Cleaned and pre-processed tweets using NLTK , implemented a custom Naive Bayes classifier with TF-IDF and Bag-ofWords feature extraction for sentiment classification, and visualized patterns with WordCloud and Matplotlib . Achieved an overall 82% accuracy with improved detection of depressive posts on 10,000+ tweets.
-
-# EDUCATION
->- J.C BOSE UNIVERSITY OF SCIENCE & TECHNOLOGY, **YMCA FARIDABAD** 
-<br> **B.Tech. - Computer Engineering with Data Science** (7.4 CGPA) <div align='right'>2020 - 2024 Faridabad, Haryana, India </div>
->- Arya Sr. Sec School
-*12th HBSE (80%)* <div align='right'> 2019 Narwana, Haryana, India</div>
->- Adarsh Sec School
-*10th HBSE (84.8%)*<div align='right'>2017 Narwana, Haryana, India</div>
-</details>
 
 ---
 
