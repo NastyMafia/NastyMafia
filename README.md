@@ -115,11 +115,13 @@
 | # | Project | Details |
 |---|---------|---------|
 | `01` | **QLoRA Fine-tuning** — Qwen 2.5 0.5B on DialogSum | BERTScore F1: `0.8381` → `0.8805` &nbsp;▲ `+5%` |
-| `02` | **GCP Vertex AI RAG Agent** | Stack: `Vertex AI` · `LangChain` · `Vector Search` |
-| `03` | **n8n Multi-Agent Password Reset Workflow** | `5` deterministic tool nodes · `Supabase` · `OTP validation` |
-
+| `02` | **Local RAG Chatbot** — Gemma 4 via Ollama | Stack: `Ollama` · `ChromaDB` · `nomic-embed-text` · fully offline |
+| `03` | **GCP Vertex AI RAG Agent** | Stack: `Vertex AI` · `LangChain` · `Vector Search` |
+| `04` | **Text-to-Dashboard AI Agent** | Stack: `LangChain` · `GPT-4o mini` · `PySpark` · ▼ `80-90%` manual workload |
+| `05` | **n8n Multi-Agent Password Reset Workflow** | `5` deterministic tool nodes · `Supabase` · `OTP validation` |
+| `06` | **WhatsApp Reporting Automation** | Stack: `BeautifulSoup` · `PyWhatKit` · `Gemini API` · runtime `<1 min` |
+| `07` | **API Health Monitoring Dashboards** | `QuickSight` · `Athena` · insurer-TPA error breakdown |
 ---
-
 ### `$ echo "Let's connect!"`
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nitish-rohilla)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)](https://bleedingedg3.github.io/MyPortfolio/)
